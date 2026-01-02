@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 Technology Trainee at Physics Wallah (PW)<br>🧠 Solved 800+ DSA problems across LeetCode, HackerRank, and GFG<br>🔧 Strong backend expertise with Node.js, Express, MongoDB<br>🤖 Experience in Backend Develpment <br>🎯 Long-term goal: Build impactful products and launch my own startup
+🧠 Solved 800+ DSA problems across LeetCode, HackerRank, and GFG<br>🔧 Strong backend expertise with Node.js, Express, MongoDB<br>🤖 Experience in Backend Develpment <br>🎯 Long-term goal: Build impactful products and launch my own startup
 
 
 ## 🌐 Socials:
